@@ -1,0 +1,3 @@
+[submodule "Package/Assets/LightSideCore"]
+	path = Package/Assets/LightSideCore
+	url = https://github.com/LightSideKittens/UnityCore.git
