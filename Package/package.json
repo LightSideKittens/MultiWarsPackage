@@ -1,0 +1,15 @@
+{
+  "name": "com.lightside.multiwars",
+  "version": "1.0.0",
+  "displayName": "Package for MultiWars games",
+  "description": "Contains all you need for developing MultiWars game",
+  "unity": "6000.0",
+  "author": {
+    "name": "Light Side LLC",
+    "email": "cat@lightside.media"
+  },
+  "dependencies": {
+    "com.unity.addressables": "2.2.2",
+    "com.unity.localization": "1.5.2"
+  }
+}
